@@ -13,3 +13,5 @@ Por lo que para realizar la tarea tendremos que:
 3.   Juntar las tablas con los datos de la misma provincia.
 3.   Navegar a traves de las diferentes provincias.
 4.   Guardar los datos de cada provincia en una hoja de excel.
+
+Recomiendo encarecidamente abrir el libro en Google Colab
